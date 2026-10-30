@@ -1,0 +1,308 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\ProgramData\\Microsoft\\VisualStudio\\Projects\\Day_3_NguyenBaQuoc\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9167EE4E-B575-E75B-4CEE-33A2E9801BE5}|Day_3_NguyenBaQuoc\\Day_3_NguyenBaQuoc.csproj|d:\\programdata\\microsoft\\visualstudio\\projects\\day_3_nguyenbaquoc\\day_3_nguyenbaquoc\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9167EE4E-B575-E75B-4CEE-33A2E9801BE5}|Day_3_NguyenBaQuoc\\Day_3_NguyenBaQuoc.csproj|solutionrelative:day_3_nguyenbaquoc\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9167EE4E-B575-E75B-4CEE-33A2E9801BE5}|Day_3_NguyenBaQuoc\\Day_3_NguyenBaQuoc.csproj|d:\\programdata\\microsoft\\visualstudio\\projects\\day_3_nguyenbaquoc\\day_3_nguyenbaquoc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9167EE4E-B575-E75B-4CEE-33A2E9801BE5}|Day_3_NguyenBaQuoc\\Day_3_NguyenBaQuoc.csproj|solutionrelative:day_3_nguyenbaquoc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9167EE4E-B575-E75B-4CEE-33A2E9801BE5}|Day_3_NguyenBaQuoc\\Day_3_NguyenBaQuoc.csproj|d:\\programdata\\microsoft\\visualstudio\\projects\\day_3_nguyenbaquoc\\day_3_nguyenbaquoc\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9167EE4E-B575-E75B-4CEE-33A2E9801BE5}|Day_3_NguyenBaQuoc\\Day_3_NguyenBaQuoc.csproj|solutionrelative:day_3_nguyenbaquoc\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9167EE4E-B575-E75B-4CEE-33A2E9801BE5}|Day_3_NguyenBaQuoc\\Day_3_NguyenBaQuoc.csproj|d:\\programdata\\microsoft\\visualstudio\\projects\\day_3_nguyenbaquoc\\day_3_nguyenbaquoc\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9167EE4E-B575-E75B-4CEE-33A2E9801BE5}|Day_3_NguyenBaQuoc\\Day_3_NguyenBaQuoc.csproj|solutionrelative:day_3_nguyenbaquoc\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9167EE4E-B575-E75B-4CEE-33A2E9801BE5}|Day_3_NguyenBaQuoc\\Day_3_NguyenBaQuoc.csproj|d:\\programdata\\microsoft\\visualstudio\\projects\\day_3_nguyenbaquoc\\day_3_nguyenbaquoc\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9167EE4E-B575-E75B-4CEE-33A2E9801BE5}|Day_3_NguyenBaQuoc\\Day_3_NguyenBaQuoc.csproj|solutionrelative:day_3_nguyenbaquoc\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9167EE4E-B575-E75B-4CEE-33A2E9801BE5}|Day_3_NguyenBaQuoc\\Day_3_NguyenBaQuoc.csproj|d:\\programdata\\microsoft\\visualstudio\\projects\\day_3_nguyenbaquoc\\day_3_nguyenbaquoc\\views\\product\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9167EE4E-B575-E75B-4CEE-33A2E9801BE5}|Day_3_NguyenBaQuoc\\Day_3_NguyenBaQuoc.csproj|solutionrelative:day_3_nguyenbaquoc\\views\\product\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9167EE4E-B575-E75B-4CEE-33A2E9801BE5}|Day_3_NguyenBaQuoc\\Day_3_NguyenBaQuoc.csproj|d:\\programdata\\microsoft\\visualstudio\\projects\\day_3_nguyenbaquoc\\day_3_nguyenbaquoc\\views\\product\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9167EE4E-B575-E75B-4CEE-33A2E9801BE5}|Day_3_NguyenBaQuoc\\Day_3_NguyenBaQuoc.csproj|solutionrelative:day_3_nguyenbaquoc\\views\\product\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9167EE4E-B575-E75B-4CEE-33A2E9801BE5}|Day_3_NguyenBaQuoc\\Day_3_NguyenBaQuoc.csproj|d:\\programdata\\microsoft\\visualstudio\\projects\\day_3_nguyenbaquoc\\day_3_nguyenbaquoc\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9167EE4E-B575-E75B-4CEE-33A2E9801BE5}|Day_3_NguyenBaQuoc\\Day_3_NguyenBaQuoc.csproj|solutionrelative:day_3_nguyenbaquoc\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9167EE4E-B575-E75B-4CEE-33A2E9801BE5}|Day_3_NguyenBaQuoc\\Day_3_NguyenBaQuoc.csproj|d:\\programdata\\microsoft\\visualstudio\\projects\\day_3_nguyenbaquoc\\day_3_nguyenbaquoc\\views\\category\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9167EE4E-B575-E75B-4CEE-33A2E9801BE5}|Day_3_NguyenBaQuoc\\Day_3_NguyenBaQuoc.csproj|solutionrelative:day_3_nguyenbaquoc\\views\\category\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9167EE4E-B575-E75B-4CEE-33A2E9801BE5}|Day_3_NguyenBaQuoc\\Day_3_NguyenBaQuoc.csproj|d:\\programdata\\microsoft\\visualstudio\\projects\\day_3_nguyenbaquoc\\day_3_nguyenbaquoc\\views\\category\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9167EE4E-B575-E75B-4CEE-33A2E9801BE5}|Day_3_NguyenBaQuoc\\Day_3_NguyenBaQuoc.csproj|solutionrelative:day_3_nguyenbaquoc\\views\\category\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9167EE4E-B575-E75B-4CEE-33A2E9801BE5}|Day_3_NguyenBaQuoc\\Day_3_NguyenBaQuoc.csproj|d:\\programdata\\microsoft\\visualstudio\\projects\\day_3_nguyenbaquoc\\day_3_nguyenbaquoc\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9167EE4E-B575-E75B-4CEE-33A2E9801BE5}|Day_3_NguyenBaQuoc\\Day_3_NguyenBaQuoc.csproj|solutionrelative:day_3_nguyenbaquoc\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9167EE4E-B575-E75B-4CEE-33A2E9801BE5}|Day_3_NguyenBaQuoc\\Day_3_NguyenBaQuoc.csproj|d:\\programdata\\microsoft\\visualstudio\\projects\\day_3_nguyenbaquoc\\day_3_nguyenbaquoc\\views\\category\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9167EE4E-B575-E75B-4CEE-33A2E9801BE5}|Day_3_NguyenBaQuoc\\Day_3_NguyenBaQuoc.csproj|solutionrelative:day_3_nguyenbaquoc\\views\\category\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9167EE4E-B575-E75B-4CEE-33A2E9801BE5}|Day_3_NguyenBaQuoc\\Day_3_NguyenBaQuoc.csproj|d:\\programdata\\microsoft\\visualstudio\\projects\\day_3_nguyenbaquoc\\day_3_nguyenbaquoc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9167EE4E-B575-E75B-4CEE-33A2E9801BE5}|Day_3_NguyenBaQuoc\\Day_3_NguyenBaQuoc.csproj|solutionrelative:day_3_nguyenbaquoc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\ProgramData\\Microsoft\\VisualStudio\\Projects\\Day_3_NguyenBaQuoc\\Day_3_NguyenBaQuoc\\Views\\Product\\Delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Day_3_NguyenBaQuoc\\Views\\Product\\Delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\ProgramData\\Microsoft\\VisualStudio\\Projects\\Day_3_NguyenBaQuoc\\Day_3_NguyenBaQuoc\\Views\\Product\\Edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Day_3_NguyenBaQuoc\\Views\\Product\\Edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\ProgramData\\Microsoft\\VisualStudio\\Projects\\Day_3_NguyenBaQuoc\\Day_3_NguyenBaQuoc\\Views\\Category\\Delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Day_3_NguyenBaQuoc\\Views\\Category\\Delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9167EE4E-B575-E75B-4CEE-33A2E9801BE5}|Day_3_NguyenBaQuoc\\Day_3_NguyenBaQuoc.csproj|d:\\programdata\\microsoft\\visualstudio\\projects\\day_3_nguyenbaquoc\\day_3_nguyenbaquoc\\views\\category\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9167EE4E-B575-E75B-4CEE-33A2E9801BE5}|Day_3_NguyenBaQuoc\\Day_3_NguyenBaQuoc.csproj|solutionrelative:day_3_nguyenbaquoc\\views\\category\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\ProgramData\\Microsoft\\VisualStudio\\Projects\\Day_3_NguyenBaQuoc\\Day_3_NguyenBaQuoc\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Day_3_NguyenBaQuoc\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\ProgramData\\Microsoft\\VisualStudio\\Projects\\Day_3_NguyenBaQuoc\\Day_3_NguyenBaQuoc\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Day_3_NguyenBaQuoc\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-30T04:14:46.995Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "D:\\ProgramData\\Microsoft\\VisualStudio\\Projects\\Day_3_NguyenBaQuoc\\Day_3_NguyenBaQuoc\\Views\\Product\\Details.cshtml",
+              "RelativeDocumentMoniker": "Day_3_NguyenBaQuoc\\Views\\Product\\Details.cshtml",
+              "ToolTip": "D:\\ProgramData\\Microsoft\\VisualStudio\\Projects\\Day_3_NguyenBaQuoc\\Day_3_NguyenBaQuoc\\Views\\Product\\Details.cshtml",
+              "RelativeToolTip": "Day_3_NguyenBaQuoc\\Views\\Product\\Details.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABYAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-10-30T03:46:45.341Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Category.cs",
+              "DocumentMoniker": "D:\\ProgramData\\Microsoft\\VisualStudio\\Projects\\Day_3_NguyenBaQuoc\\Day_3_NguyenBaQuoc\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "Day_3_NguyenBaQuoc\\Models\\Category.cs",
+              "ToolTip": "D:\\ProgramData\\Microsoft\\VisualStudio\\Projects\\Day_3_NguyenBaQuoc\\Day_3_NguyenBaQuoc\\Models\\Category.cs",
+              "RelativeToolTip": "Day_3_NguyenBaQuoc\\Models\\Category.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-30T00:51:05.937Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Product.cs",
+              "DocumentMoniker": "D:\\ProgramData\\Microsoft\\VisualStudio\\Projects\\Day_3_NguyenBaQuoc\\Day_3_NguyenBaQuoc\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "Day_3_NguyenBaQuoc\\Models\\Product.cs",
+              "ToolTip": "D:\\ProgramData\\Microsoft\\VisualStudio\\Projects\\Day_3_NguyenBaQuoc\\Day_3_NguyenBaQuoc\\Models\\Product.cs",
+              "RelativeToolTip": "Day_3_NguyenBaQuoc\\Models\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-30T03:23:15.109Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\ProgramData\\Microsoft\\VisualStudio\\Projects\\Day_3_NguyenBaQuoc\\Day_3_NguyenBaQuoc\\Views\\Product\\Create.cshtml",
+              "RelativeDocumentMoniker": "Day_3_NguyenBaQuoc\\Views\\Product\\Create.cshtml",
+              "ToolTip": "D:\\ProgramData\\Microsoft\\VisualStudio\\Projects\\Day_3_NguyenBaQuoc\\Day_3_NguyenBaQuoc\\Views\\Product\\Create.cshtml",
+              "RelativeToolTip": "Day_3_NguyenBaQuoc\\Views\\Product\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-10-30T03:47:21.196Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CategoryController.cs",
+              "DocumentMoniker": "D:\\ProgramData\\Microsoft\\VisualStudio\\Projects\\Day_3_NguyenBaQuoc\\Day_3_NguyenBaQuoc\\Controllers\\CategoryController.cs",
+              "RelativeDocumentMoniker": "Day_3_NguyenBaQuoc\\Controllers\\CategoryController.cs",
+              "ToolTip": "D:\\ProgramData\\Microsoft\\VisualStudio\\Projects\\Day_3_NguyenBaQuoc\\Day_3_NguyenBaQuoc\\Controllers\\CategoryController.cs",
+              "RelativeToolTip": "Day_3_NguyenBaQuoc\\Controllers\\CategoryController.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAAAgwGQAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-30T00:57:46.629Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "D:\\ProgramData\\Microsoft\\VisualStudio\\Projects\\Day_3_NguyenBaQuoc\\Day_3_NguyenBaQuoc\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "Day_3_NguyenBaQuoc\\Controllers\\ProductController.cs",
+              "ToolTip": "D:\\ProgramData\\Microsoft\\VisualStudio\\Projects\\Day_3_NguyenBaQuoc\\Day_3_NguyenBaQuoc\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "Day_3_NguyenBaQuoc\\Controllers\\ProductController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGcAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-30T03:34:53.484Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\ProgramData\\Microsoft\\VisualStudio\\Projects\\Day_3_NguyenBaQuoc\\Day_3_NguyenBaQuoc\\Views\\Product\\Index.cshtml",
+              "RelativeDocumentMoniker": "Day_3_NguyenBaQuoc\\Views\\Product\\Index.cshtml",
+              "ToolTip": "D:\\ProgramData\\Microsoft\\VisualStudio\\Projects\\Day_3_NguyenBaQuoc\\Day_3_NguyenBaQuoc\\Views\\Product\\Index.cshtml",
+              "RelativeToolTip": "Day_3_NguyenBaQuoc\\Views\\Product\\Index.cshtml",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAADMAAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-10-30T03:45:58.8Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "D:\\ProgramData\\Microsoft\\VisualStudio\\Projects\\Day_3_NguyenBaQuoc\\Day_3_NguyenBaQuoc\\Views\\Category\\Details.cshtml",
+              "RelativeDocumentMoniker": "Day_3_NguyenBaQuoc\\Views\\Category\\Details.cshtml",
+              "ToolTip": "D:\\ProgramData\\Microsoft\\VisualStudio\\Projects\\Day_3_NguyenBaQuoc\\Day_3_NguyenBaQuoc\\Views\\Category\\Details.cshtml",
+              "RelativeToolTip": "Day_3_NguyenBaQuoc\\Views\\Category\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-10-30T01:52:41.312Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\ProgramData\\Microsoft\\VisualStudio\\Projects\\Day_3_NguyenBaQuoc\\Day_3_NguyenBaQuoc\\Views\\Category\\Index.cshtml",
+              "RelativeDocumentMoniker": "Day_3_NguyenBaQuoc\\Views\\Category\\Index.cshtml",
+              "ToolTip": "D:\\ProgramData\\Microsoft\\VisualStudio\\Projects\\Day_3_NguyenBaQuoc\\Day_3_NguyenBaQuoc\\Views\\Category\\Index.cshtml",
+              "RelativeToolTip": "Day_3_NguyenBaQuoc\\Views\\Category\\Index.cshtml",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAACMAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-10-30T01:11:11.768Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "D:\\ProgramData\\Microsoft\\VisualStudio\\Projects\\Day_3_NguyenBaQuoc\\Day_3_NguyenBaQuoc\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "Day_3_NguyenBaQuoc\\Models\\ErrorViewModel.cs",
+              "ToolTip": "D:\\ProgramData\\Microsoft\\VisualStudio\\Projects\\Day_3_NguyenBaQuoc\\Day_3_NguyenBaQuoc\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "Day_3_NguyenBaQuoc\\Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-30T03:52:49.237Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "D:\\ProgramData\\Microsoft\\VisualStudio\\Projects\\Day_3_NguyenBaQuoc\\Day_3_NguyenBaQuoc\\Views\\Category\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Day_3_NguyenBaQuoc\\Views\\Category\\Edit.cshtml",
+              "ToolTip": "D:\\ProgramData\\Microsoft\\VisualStudio\\Projects\\Day_3_NguyenBaQuoc\\Day_3_NguyenBaQuoc\\Views\\Category\\Edit.cshtml",
+              "RelativeToolTip": "Day_3_NguyenBaQuoc\\Views\\Category\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-10-30T02:28:00.593Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\ProgramData\\Microsoft\\VisualStudio\\Projects\\Day_3_NguyenBaQuoc\\Day_3_NguyenBaQuoc\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Day_3_NguyenBaQuoc\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\ProgramData\\Microsoft\\VisualStudio\\Projects\\Day_3_NguyenBaQuoc\\Day_3_NguyenBaQuoc\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Day_3_NguyenBaQuoc\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAACYAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-10-30T01:57:44.903Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "D:\\ProgramData\\Microsoft\\VisualStudio\\Projects\\Day_3_NguyenBaQuoc\\Day_3_NguyenBaQuoc\\Views\\Product\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Day_3_NguyenBaQuoc\\Views\\Product\\Delete.cshtml",
+              "ToolTip": "D:\\ProgramData\\Microsoft\\VisualStudio\\Projects\\Day_3_NguyenBaQuoc\\Day_3_NguyenBaQuoc\\Views\\Product\\Delete.cshtml",
+              "RelativeToolTip": "Day_3_NguyenBaQuoc\\Views\\Product\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-10-30T03:48:39.64Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "D:\\ProgramData\\Microsoft\\VisualStudio\\Projects\\Day_3_NguyenBaQuoc\\Day_3_NguyenBaQuoc\\Views\\Product\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Day_3_NguyenBaQuoc\\Views\\Product\\Edit.cshtml",
+              "ToolTip": "D:\\ProgramData\\Microsoft\\VisualStudio\\Projects\\Day_3_NguyenBaQuoc\\Day_3_NguyenBaQuoc\\Views\\Product\\Edit.cshtml",
+              "RelativeToolTip": "Day_3_NguyenBaQuoc\\Views\\Product\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-10-30T03:48:03.689Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\ProgramData\\Microsoft\\VisualStudio\\Projects\\Day_3_NguyenBaQuoc\\Day_3_NguyenBaQuoc\\Views\\Category\\Create.cshtml",
+              "RelativeDocumentMoniker": "Day_3_NguyenBaQuoc\\Views\\Category\\Create.cshtml",
+              "ToolTip": "D:\\ProgramData\\Microsoft\\VisualStudio\\Projects\\Day_3_NguyenBaQuoc\\Day_3_NguyenBaQuoc\\Views\\Category\\Create.cshtml",
+              "RelativeToolTip": "Day_3_NguyenBaQuoc\\Views\\Category\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-10-30T02:02:21.986Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "D:\\ProgramData\\Microsoft\\VisualStudio\\Projects\\Day_3_NguyenBaQuoc\\Day_3_NguyenBaQuoc\\Views\\Category\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Day_3_NguyenBaQuoc\\Views\\Category\\Delete.cshtml",
+              "ToolTip": "D:\\ProgramData\\Microsoft\\VisualStudio\\Projects\\Day_3_NguyenBaQuoc\\Day_3_NguyenBaQuoc\\Views\\Category\\Delete.cshtml",
+              "RelativeToolTip": "Day_3_NguyenBaQuoc\\Views\\Category\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-10-30T03:12:53.157Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
